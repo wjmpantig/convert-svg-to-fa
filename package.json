@@ -1,0 +1,15 @@
+{
+  "name": "convert-svg-to-fa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svg-parser": "^2.0.4",
+    "svg-path-commander": "^0.1.25"
+  }
+}
